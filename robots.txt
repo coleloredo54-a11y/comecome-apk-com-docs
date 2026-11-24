@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coleloredo54-a11y.github.io/comecome-apk-com-docs/sitemap.xml
